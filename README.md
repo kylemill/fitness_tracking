@@ -1,6 +1,6 @@
 # fitness_tracking
 
-Whoop Downloader: https://github.com/irickman/whoop-downloader
+Whoop Downloader API source: https://github.com/irickman/whoop-downloader
 
 
 ## How to run
