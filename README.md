@@ -13,6 +13,6 @@ password=<your-password>
 
 ## Generate plot
 ```
-pipenv install
+pipenv install --python 3.8 --skip-lock
 pipenv run python3 plot.py 2021-11-20-FITNESS.fit whoop.ini '2021-11-20 18:00:00' '2021-11-20 19:00:00'
 ```
